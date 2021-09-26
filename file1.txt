@@ -2,6 +2,16 @@ ithis is my first merreb file
 
 rebase is an imp topic
 
+
+
+
+
+feature is a branchname
+
 hotfix also one branch name
 
 its important topic
+=======
+
+merging also important .
+>>>>>>> 58b7238... first commit from feature
