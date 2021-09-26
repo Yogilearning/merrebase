@@ -2,6 +2,8 @@ ithis is my first merreb file
 
 rebase is an imp topic
 
+hotfix also brnch
+
 
 
 
@@ -15,3 +17,8 @@ its important topic
 
 merging also important .
 >>>>>>> 58b7238... first commit from feature
+=======
+merging also important 
+
+feature branch
+>>>>>>> 0ebb578... second commit from feature
