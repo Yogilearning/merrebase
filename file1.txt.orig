@@ -1,0 +1,23 @@
+ithis is my first merreb file
+
+rebase is an imp topic
+
+
+<<<<<<< HEAD
+
+
+
+feature is a branchname
+
+hotfix also one branch name
+
+its important topic
+=======
+
+merging also important .
+>>>>>>> 58b7238... first commit from feature
+=======
+merging also important 
+
+feature branch
+>>>>>>> 0ebb578... second commit from feature
